@@ -4,29 +4,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2322b455&lines=This+is+@magickspell+github)](https://git.io/typing-svg)
 
-<hr>
-
 ### You are visitor with number:
 
 <br>
 
 <img src="https://profile-counter.glitch.me/{madushadhanushka}/count.svg" alt="madushadhanushka :: Visitor's Count" />
 
-<hr>
-
-### My codewars <!-- and leetcode -->:
-
-<br>
-
-[![Codewars Badge](https://www.codewars.com/users/magickspell/badges/large)](https://www.codewars.com/users/magickspell)
-
-<br>
-
-<!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=magickspell)](https://leetcode.com/magickspell/) -->
-
-<hr>
-
 ### I'm using:
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
@@ -40,3 +25,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
 </div>
+
+<hr>
+
+### My codewars <!-- and leetcode -->:
+
+<br>
+
+[![Codewars Badge](https://www.codewars.com/users/magickspell/badges/large)](https://www.codewars.com/users/magickspell)
+
+<br>
+
+<!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=magickspell)](https://leetcode.com/magickspell/) -->
