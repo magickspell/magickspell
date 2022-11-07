@@ -10,7 +10,7 @@
 
 <img src="https://profile-counter.glitch.me/{madushadhanushka}/count.svg" alt="madushadhanushka :: Visitor's Count" />
 
-### I'm using:
+### Here you can find:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -26,9 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
 </div>
 
-<hr>
-
-### My codewars <!-- and leetcode -->:
+<!-- ### My codewars <!-- and leetcode -->: -->
 
 <br>
 
