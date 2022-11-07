@@ -14,7 +14,7 @@
 
 <hr>
 
-### My codewars and leetcode:
+### My codewars <!-- and leetcode -->:
 
 <br>
 
@@ -22,6 +22,6 @@
 
 <br>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=magickspell)](https://github.com/magickspell)
+<!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=magickspell)](https://leetcode.com/magickspell/) -->
 
 <hr>
