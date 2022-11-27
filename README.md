@@ -26,9 +26,10 @@
 </div>
 <br>
 
-<img src="./jony.png" alt="drawing" style="height:200px; border-radius:25%; transform: rotate(10deg); margin-top: 16px;"/>
+<div style="height: 200px; width: 200px; border-radius: 25px; margin-top: 4px; overflow-y: hidden; overflow-x: hidden; transform: rotate(10deg)">
+<img src="./jony.png" alt="drawing" height=200 />
+</div>
 
-<br>
 <br>
 
 [![Codewars Badge](https://www.codewars.com/users/magickspell/badges/large)](https://www.codewars.com/users/magickspell)
