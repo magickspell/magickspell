@@ -1,5 +1,4 @@
 # My greetings, stranger =)
-
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2322b455&lines=This+is+@magickspell+github)](https://git.io/typing-svg)
@@ -8,7 +7,9 @@
 
 <br>
 
+<div style="display: flex; justify-content: flex-start; align-items: center; gap: 20px">
 <img src="https://profile-counter.glitch.me/{madushadhanushka}/count.svg" alt="madushadhanushka :: Visitor's Count" />
+</div>
 
 ### Here you can find:
 
@@ -23,9 +24,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>&nbsp;
 </div>
+<br>
 
-###
+<img src="./jony.png" alt="drawing" style="height:200px; border-radius:25%; transform: rotate(10deg); margin-top: 16px;"/>
 
+<br>
 <br>
 
 [![Codewars Badge](https://www.codewars.com/users/magickspell/badges/large)](https://www.codewars.com/users/magickspell)
