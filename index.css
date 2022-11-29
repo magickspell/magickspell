@@ -1,0 +1,5 @@
+img[alt=jony] {
+    display: block;
+    transform: rotate(10deg);
+    height: 200px;
+}
