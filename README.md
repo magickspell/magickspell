@@ -26,9 +26,9 @@
 </div>
 <br>
 
-<div style="height: 200px; width: 200px; border-radius: 25px; margin-top: 4px; overflow-y: hidden; overflow-x: hidden; transform: rotate(10deg)">
+<!--<div style="height: 200px; width: 200px; border-radius: 25px; margin-top: 4px; overflow-y: hidden; overflow-x: hidden; transform: rotate(10deg)">
 <img src="./jony.png" alt="drawing" height=200 />
-</div>
+</div>-->
 
 <br>
 
