@@ -8,8 +8,8 @@
 <br>
 
 <div style="display: flex; justify-content: flex-start; align-items: center; gap: 20px">
-<img src="https://profile-counter.glitch.me/{madushadhanushka}/count.svg" alt="madushadhanushka :: Visitor's Count" />
-</div>
+<!--<img src="https://profile-counter.glitch.me/{madushadhanushka}/count.svg" alt="madushadhanushka :: Visitor's Count" />
+</div>-->
 
 ### Here you can find:
 
@@ -36,4 +36,4 @@
 
 <br>
 
-<!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=magickspell)](https://leetcode.com/magickspell/) -->
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=magickspell)](https://leetcode.com/magickspell/)
